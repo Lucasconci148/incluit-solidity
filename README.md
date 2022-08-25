@@ -7,7 +7,7 @@ Creamos este repositorio para tener un lugar común donde podemos buscar todos l
 
 ## Clase 1
 
-Filmina de la primera clase: 
+[Filmina de la primera clase](https://docs.google.com/presentation/d/1wsjzhdxYgnGAGH4wQ-Kj2yYttQn9M2HB8h259YbqSvw/edit#slide=id.g1420d0f029c_0_21)
 
 En la primera clase vimos conceptos generales relacionados con el ecosistema de blockchain y creamos nuestro primer contrato inteligente utilizando Remix como interfaz de desarrollo. En esta oportunidad nuestro primer contrato lo compilamos y lo desplegamos en la blockchain incluida dentro de Remix, hicimos algunas pruebas y aprendimos a usar la herramienta. 
 Dentro de la carpeta de la primera clase, en este mismo repositorio, vamos a encontrar el ejercicio HelloWorld que hicimos en clase y un desafío con su solución para practicar desarrollo en solidity. Dentro del desafío está escrito que responsabilidad debería tener cada una de las funciones que se encuentran escritas en el contrato.
