@@ -1,3 +1,6 @@
+![Logo Incluit Horizontal](https://user-images.githubusercontent.com/51130069/186660674-b555cebc-60b7-4c3a-90a1-a15a5be5ada8.png)
+
+
 # incluit-solidity
 
 Creamos este repositorio para tener un lugar común donde podemos buscar todos los recursos relacionados con el curso de solidity dictado en agosto del 2022 gracias a Incluit.
