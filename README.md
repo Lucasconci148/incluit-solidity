@@ -19,3 +19,18 @@ Dentro de la carpeta de la primera clase, en este mismo repositorio, vamos a enc
  - Montar un nodo de bitcoin:  https://academy.bit2me.com/montar-nodo-bitcoin-en-menos-10-minutos/
  - Smart Contracts:  https://academy.bit2me.com/que-son-los-smart-contracts/
  - Remix Docs: https://remix-ide.readthedocs.io/en/latest/#
+
+
+## Clase 2
+
+[Filmina de la segunda clase](https://docs.google.com/presentation/d/1--YSrCelhR7-ircKp5QapeE-mjrKBNu2c4qSZ_qw5MY/edit#slide=id.p)
+
+En nuestra segunda clase estuvimos viendo teoria sobre las distintas estructuras de datos que nos encontramos en solidity y tambien vimos los conceptos relacionados a los ditintos tipos de funciones que podemos tener en nuestros contratos. Creamos desde cero un nuevo contrato que nos permitiria tener una votacion sobre la blockchain. El contrato que hicimos en clase se encuentra en la carpeta correspondiente dentro de este repositorio.
+
+### Lectura adicional relacionada con la clase:
+
+- Solidty by examples: https://solidity-by-example.org/
+- Crypto zombies:  https://cryptozombies.io/es/
+- Instalar Metamask:  https://medium.com/@shuffledex/c%C3%B3mo-instalar-y-usar-metamask-para-enviar-y-recibir-ethers-95e732503cc3
+- Remix Docs: https://remix-ide.readthedocs.io/en/latest/#
+
