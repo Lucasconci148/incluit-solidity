@@ -5,6 +5,8 @@
 
 Creamos este repositorio para tener un lugar común donde podemos buscar todos los recursos relacionados con el curso de solidity dictado en agosto del 2022 gracias a Incluit.
 
+Creamos este POAP para el curso: https://poap.gallery/event/62966
+
 ## Clase 1
 
 [Filmina de la primera clase](https://docs.google.com/presentation/d/1wsjzhdxYgnGAGH4wQ-Kj2yYttQn9M2HB8h259YbqSvw/edit#slide=id.p)
@@ -34,3 +36,14 @@ En nuestra segunda clase estuvimos viendo teoria sobre las distintas estructuras
 - Instalar Metamask:  https://medium.com/@shuffledex/c%C3%B3mo-instalar-y-usar-metamask-para-enviar-y-recibir-ethers-95e732503cc3
 - Remix Docs: https://remix-ide.readthedocs.io/en/latest/#
 
+## Clase 3
+
+[Filmina de la tercer clase](https://docs.google.com/presentation/d/1rgrzeyYwoqYr-zF10modpHZBo7H53n0dCNm1HVV7b08/edit#slide=id.p)
+
+En nuestra tercer clase, vimos como trabajar con wallets. Fondeamos una en una red de prueba de ethereum para desplegar nuestro contrato de la votacion en esta red de prueba y a travez del explorador de bloques de etherscan pudimos validar nuestro contrato y ver como se puede interectuar con el una vez desplegado en esta red de prueba.
+
+### Lectura adicional relacionada con la clase:
+
+- Iterable Mapping:  https://solidity-by-example.org/app/iterable-mapping/
+- Ethereum Networks:  https://ethereum.org/es/developers/docs/networks/
+- Gas y Tarifas:  https://ethereum.org/es/developers/docs/gas/
